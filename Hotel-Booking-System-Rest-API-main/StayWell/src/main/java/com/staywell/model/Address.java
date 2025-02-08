@@ -24,6 +24,6 @@ public class Address {
 	@NotNull @NotEmpty @NotBlank
     private String postalCode;
 	@NotNull @NotEmpty @NotBlank
-    private String country;
-
+    private String  country;
+//hello
 }
